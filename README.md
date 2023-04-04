@@ -99,6 +99,7 @@
 - [Git official documentation](https://git-scm.com/doc): Comprehensive documentation and reference materials for Git.
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules): A guide for astronauts (now, programmers using Git) about what to do when things go wrong.
 - [Oh Shit, Git!?!](https://ohshitgit.com/): Oh shit, I did something terribly wrong, please tell me git has a magic time machine!?!
+- [Relearn Git Every Week](https://www.reddit.com/r/ProgrammerHumor/comments/129q4l9/me_relearning_git_every_week/): How to relearn git every week.
 - [GitHub Guides](https://guides.github.com/): A collection of guides on various Git and GitHub topics, including creating repositories, making pull requests, and managing branches.
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials): A series of tutorials covering various aspects of Git, including branching, merging, and undoing changes.
 - [Pro Git Book](https://git-scm.com/book/en/v2): A free online book covering all aspects of Git, from basics to advanced topics.
