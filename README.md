@@ -1,5 +1,7 @@
 # Git 101 Training Session
 
+![XKCD - git](https://imgs.xkcd.com/comics/git.png)
+
 ## Agenda
 
 1. 15-20 minute lecture
@@ -95,6 +97,8 @@
 
 ## Resources
 - [Git official documentation](https://git-scm.com/doc): Comprehensive documentation and reference materials for Git.
+- [Git Flight Rules](https://github.com/k88hudson/git-flight-rules): A guide for astronauts (now, programmers using Git) about what to do when things go wrong.
+- [Oh Shit, Git!?!](https://ohshitgit.com/): Oh shit, I did something terribly wrong, please tell me git has a magic time machine!?!
 - [GitHub Guides](https://guides.github.com/): A collection of guides on various Git and GitHub topics, including creating repositories, making pull requests, and managing branches.
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials): A series of tutorials covering various aspects of Git, including branching, merging, and undoing changes.
 - [Pro Git Book](https://git-scm.com/book/en/v2): A free online book covering all aspects of Git, from basics to advanced topics.
