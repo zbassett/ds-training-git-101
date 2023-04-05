@@ -78,6 +78,8 @@ stateDiagram-v2
   - Click "New Pull Request" and select your feature branch.
   - Review your changes and click "Create Pull Request".
 
+![git data transport commands](https://images.osteele.com/2008/git-transport.png)
+
 ### 4. Breakout sessions: Hands-on exercise
 
 - Fork this repo
