@@ -32,6 +32,18 @@
 
 ### 2. Setting up Git and SSH keys
 
+```mermaid
+---
+title: Purpose of the separate SSH Keys
+---
+stateDiagram-v2
+  Laptop
+  AMLComputeInstance: AML Compute Instance
+  GitHub
+  Laptop --> AMLComputeInstance: SSH key created previously
+  AMLComputeInstance --> GitHub: SSH key created today
+```
+
 - I already created an SSH key to connect to my compute instance!  Why do I need a different one!?
   - Each SSH key should ideally be used for a specific purpose. Using a separate SSH key for Git ensures better security and separation of concerns. If one key is compromised, it does not immediately grant access to all of your services that use SSH keys.
   - You created an SSH key to connect to your AzureML compute instance from your computer.
