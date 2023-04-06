@@ -1,5 +1,3 @@
-Here's the answer key for the breakout session in markdown format:
-
 # Answer Key: Git 101 Training - Flask App Breakout Session
 
 ## 1. Fork this repo
